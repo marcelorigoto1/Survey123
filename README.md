@@ -1,2 +1,2 @@
-# Survey123
-Repository for Javascript functions that can unlock a better potential in Survey123.
+# Javascript Functions for Survey123
+
